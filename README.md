@@ -6,7 +6,7 @@
 
 ### **🛠️ Technologies & Tools**
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,tensorflow,pandas,mongodb,mysql,aws,azure,powerbi,git,github" alt="Tech Stack" width="700">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,tensorflow,pandas,mongodb,mysql,aws,azure,powerbi,git,github,docker,kubernetes,flask,django,react,nodejs,r,fastapi,linux,bash,graphql,redis,postgres" alt="Tech Stack" width="900">
 
 ---
 
@@ -26,23 +26,22 @@
 
 ---
 
-### **🔥 GitHub Stats & Activity**
+### **🌟 Fun & Interactive Section**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indrachk&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=indrachk&theme=tokyonight" height="160"/>
-</p>
+🎵 **What I'm Listening To:**  
+![Spotify Playing](https://novatorem.vercel.app/api/spotify)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indrachk&theme=react-dark&hide_border=true" width="800" />
-</p>
+💡 **Random Dev Quote:**  
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+🌍 **Where are visitors coming from?**  
+![Visitor Count](https://profile-counter.glitch.me/{indrachk}/count.svg)
 
-### **🐍 Watch My Contribution Snake Slither!**
-<p align="center">
-  <img src="https://github.com/indrachk/indrachk/blob/output/github-contribution-grid-snake.svg" />
-</p>
+⚡ **Code Challenges Progress:**  
+![LeetCode Stats](https://leetcard.jacoblin.cool/indrachk?theme=dark&font=Baloo&ext=activity)
+
+📊 **GitHub Activity Graph:**  
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=indrachk&theme=react-dark&hide_border=true)
 
 ---
 
