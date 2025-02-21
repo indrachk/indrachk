@@ -6,7 +6,7 @@
 
 ### **🛠️ Technologies & Tools**
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,tensorflow,pandas,mongodb,mysql,matplotlib,datarobot,aws,azure,powerbi,github,docker,django,react,nodejs,r,linux,bash,postgresql" alt="Tech Stack" width="900">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,tensorflow,pandas,mongodb,mysql,matplotlib,datarobot,aws,powerbi,github,docker,django,react,nodejs,r,linux,bash" alt="Tech Stack" width="900">
 
 ---
 
