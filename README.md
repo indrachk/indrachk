@@ -6,7 +6,7 @@
 
 ### **🛠️ Technologies & Tools**
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,tensorflow,pandas,mongodb,mysql,aws,azure,powerbi,github,docker,flask,django,react,nodejs,r,fastapi,linux,bash,postgres" alt="Tech Stack" width="900">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,tensorflow,pandas,mongodb,mysql,matplotlib,datarobot,aws,azure,powerbi,github,docker,django,react,nodejs,r,linux,bash,postgresql" alt="Tech Stack" width="900">
 
 ---
 
@@ -42,6 +42,12 @@
 
 📊 **GitHub Activity Graph:**  
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=indrachk&theme=react-dark&hide_border=true)
+
+🎶 **Inspirational Tech Song:**  
+"🎧 *Code like a champion, debug like a warrior!* — Inspired by 'Harder, Better, Faster, Stronger' by Daft Punk"
+
+💬 **Favorite Programming Quote:**  
+"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — *Martin Fowler*
 
 ---
 
