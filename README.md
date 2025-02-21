@@ -32,7 +32,7 @@
 ![Spotify Playing](https://novatorem.vercel.app/api/spotify)
 
 💡 **Random Dev Quote:**  
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+"Without data, you're just another person with an opinion." 📊
 
 🌍 **Where are visitors coming from?**  
 ![Visitor Count](https://profile-counter.glitch.me/{indrachk}/count.svg)
