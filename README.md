@@ -1,4 +1,4 @@
-### **🌌 Welcome to My Universe, I'm Indra Kumar! 🚀**  
+### **🌌 Welcome to Analyst Universe, I'm Indra Kumar! 🚀**  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00FFEE&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+AI+Enthusiast+%7C+Software+Developer;Exploring+the+Realms+of+Data+%26+AI;Building+Next-Gen+Tech+with+Python+%26+Cloud;Let's+Code+Beyond+Infinity!+%F0%9F%9A%80)
 
