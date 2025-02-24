@@ -15,7 +15,7 @@
 🔹 **[Time Series Analysis and Forecasting](https://github.com/your-repo-link)** 📊   
 &nbsp;&nbsp;&nbsp;&nbsp;Predicting trends with advanced **EDA, visualization, & forecasting models** using Python.  
 
-🔹 **[Real-Time MAANG Stock Price Analysis](https://github.com/your-repo-link)** 💹  
+🔹 **[Real-Time MAANG Stock Price Analysis](https://github.com/indrachk/Real-Time-MAANG-Stock-Price-Analysis)** 💹  
 &nbsp;&nbsp;&nbsp;&nbsp;Analyzing stock data for **Meta, Amazon, Apple, Netflix, and Google** with cloud computing.  
 
 🔹 **[Customer Behavior Prediction](https://github.com/your-repo-link)** 🤖  
