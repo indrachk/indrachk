@@ -12,7 +12,7 @@
 
 ### **🌠 Featured Projects**
 
-🔹 **[Time Series Analysis and Forecasting](https://github.com/your-repo-link)** 📊   
+🔹 **[Time Series Analysis and Forecasting](https://github.com/indrachk/Time-Series-Analysis-and-Forecasting-)** 📊   
 &nbsp;&nbsp;&nbsp;&nbsp;Predicting trends with advanced **EDA, visualization, & forecasting models** using Python.  
 
 🔹 **[Real-Time MAANG Stock Price Analysis](https://github.com/indrachk/Real-Time-MAANG-Stock-Price-Analysis)** 💹  
