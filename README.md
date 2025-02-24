@@ -21,7 +21,7 @@
 🔹 **[Customer Behavior Prediction](https://github.com/indrachk/Customer-Behavior-Prediction)** 🤖  
 &nbsp;&nbsp;&nbsp;&nbsp;Built **92% accurate models** for predicting customer engagement and retention.  
 
-🔹 **[Sales and Revenue Analysis](https://github.com/your-repo-link)** 📈  
+🔹 **[Sales and Revenue Analysis](https://github.com/indrachk/sales-revenue-analysis)** 📈  
 &nbsp;&nbsp;&nbsp;&nbsp;Optimized revenue tracking for **50,000+ sales records** using Power BI and SQL.  
 
 ---
