@@ -18,7 +18,7 @@
 🔹 **[Real-Time MAANG Stock Price Analysis](https://github.com/indrachk/Real-Time-MAANG-Stock-Price-Analysis)** 💹  
 &nbsp;&nbsp;&nbsp;&nbsp;Analyzing stock data for **Meta, Amazon, Apple, Netflix, and Google** with cloud computing.  
 
-🔹 **[Customer Behavior Prediction](https://github.com/your-repo-link)** 🤖  
+🔹 **[Customer Behavior Prediction](https://github.com/indrachk/Customer-Behavior-Prediction)** 🤖  
 &nbsp;&nbsp;&nbsp;&nbsp;Built **92% accurate models** for predicting customer engagement and retention.  
 
 🔹 **[Sales and Revenue Analysis](https://github.com/your-repo-link)** 📈  
