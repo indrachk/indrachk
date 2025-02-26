@@ -28,9 +28,6 @@
 
 ### **🌟 Fun & Interactive Section**
 
-🎵 **What I'm Listening To:**  
-![Spotify Playing](https://novatorem.vercel.app/api/spotify)
-
 💡 **Random Dev Quote:**  
 "Without data, you're just another person with an opinion." 📊
 
@@ -57,4 +54,4 @@
 💼 **LinkedIn:** [indra-kumar-chandaka](https://www.linkedin.com/in/indra-kumar-chandaka-a81623208)  
 🐙 **GitHub:** [indrachk](https://github.com/indrachk)  
 
-🚀 **Let's code beyond infinity!** 🌌✨
+🚀 **Let's Builddd beyond infinity!** 🌌✨
